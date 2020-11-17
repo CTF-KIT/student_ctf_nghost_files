@@ -1,4 +1,4 @@
-# [Night mode task](https://student.ctf.su/nightmode)
+# ([NGhost task](https://student.ctf.su/nghost)
 
 ### Solution:
  * Scan website with DirBuster

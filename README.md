@@ -1,4 +1,4 @@
-# [Night mode task](https://student.ctf.su/nightmode)
+# ([NGhost task](https://student.ctf.su/nghost)
 
 ### [Solution](SOLUTION.md)
 
@@ -6,3 +6,4 @@
  * [DirBuster](https://github.com/KajanM/DirBuster) + custom wordlist
  * [git-dumper](https://github.com/arthaud/git-dumper)
  * Python with requests
+ * Web service for receive secret
