@@ -1,4 +1,4 @@
-# ([NGhost task](https://student.ctf.su/nghost)
+# [NGhost task](https://student.ctf.su/nghost)
 
 ### Solution:
  * Scan website with DirBuster
